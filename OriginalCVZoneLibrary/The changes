@@ -1,0 +1,5 @@
+1. Line no.20 (The code was giving a unknown error without putting [ modelC=1 ])     (This I got to Know from another version of the same library.)
+2. line no. 34 (Adding the same to the media pipe function. Without this the same error was appearing.)
+3. From line 95 (Adding Self. in the fingers variable or else it was giving a error that variable is not defined. Later on i remebered we had to add that because it was a class and function.)
+4. HandType function used from another library.
+Some other minute changes are there as well.
